@@ -1,8 +1,22 @@
-## Single Responsibility Principle
+# S
+Single Responsibility Principle
 
 -----
 
-> &ldquo; A class should have one and only one reason to change &rdquo;
+> “A class should have one and only one reason to change”
+>
+> “This principle is about people.(Actor)”
+>
+> — Robert C. Martin
+
+----
+
+> “Every module, class, or function should have responsibility over a single 
+> part of the functionality provided by the software, and that responsibility 
+> should be entirely encapsulated by the class. All its services should be 
+> narrowly aligned with that responsibility.”
+>
+> — Wikipedia
 
 ----
 

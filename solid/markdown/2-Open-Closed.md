@@ -1,11 +1,12 @@
-O - Open / Closed Principle
+# O
+Open / Closed Principle
 
 -----
 
-> &ldquo; Open for extension, closed for modification &rdquo;
-
-Notes:
-
+> “Software entities (classes, modules, functions, etc.) should be open 
+> for extension, but closed for modification”
+>
+> — Wikipedia
 
 ----
 
